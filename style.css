@@ -77,3 +77,10 @@ body {
     padding-top: 20px;
     margin-top: 20px;
 }
+
+.profile-photo {
+  width: 150px; /* Adjust this to your desired width */
+  height: auto; /* This keeps the photo's proportions correct */
+  border-radius: 50%; /* This makes the photo circular, you can remove it if you want a square photo */
+  margin-bottom: 15px; /* Adds some space below the photo */
+}
